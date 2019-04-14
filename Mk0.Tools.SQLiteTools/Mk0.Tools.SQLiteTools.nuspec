@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>mk0.tools.sqlitetools</id>
+    <version>1.0.0</version>
+    <title>Mk0.Tools.SQLiteTools</title>
+    <authors>Manuel Kamper</authors>
+    <owners>manuelkamper</owners>
+    <licenseUrl>https://www.mk0.at/nuget/license.php</licenseUrl>
+    <projectUrl>https://github.com/manuelkamp/Mk0.Tools.SQLiteTools</projectUrl>
+    <iconUrl>https://www.mk0.at/nuget/mk0.tools.sqlitetools.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>SQLite tools</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2019 mk0.at</copyright>
+    <tags>sqlite tool</tags>
+    <summary>SQLite tools</summary>
+  </metadata>
+</package>
