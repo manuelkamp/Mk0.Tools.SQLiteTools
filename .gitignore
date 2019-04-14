@@ -331,3 +331,6 @@ ASALocalRun/
 /Mk0.Tools.SQLiteTools/Mk0.Tools.SQLiteTools/nuget.exe
 /Mk0.Tools.SQLiteTools/Mk0.Tools.SQLiteTools/publish-nuget.bat
 /Mk0.Tools.SQLiteTools/Mk0.Tools.SQLiteTools/Mk0.Tools.SQLiteTools.nuspec
+/Mk0.Tools.SQLiteTools/Mk0.Tools.SQLiteTools.nuspec
+/Mk0.Tools.SQLiteTools/nuget.exe
+/Mk0.Tools.SQLiteTools/publish-nuget.bat
